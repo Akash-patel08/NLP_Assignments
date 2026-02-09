@@ -1,0 +1,5 @@
+text,label,cleaned_text,processed_text,label_encoded
+I love machine learning!,positive,i love machine learning,love machine learning,1
+NLP is amazing and very useful.,positive,nlp is amazing and very useful,nlp amazing useful,1
+I hate spam emails.,negative,i hate spam emails,hate spam email,0
+Machine learning is the future.,positive,machine learning is the future,machine learning future,1
